@@ -1,0 +1,3 @@
+IT Vedant AI-Powered DevOps Application started on port 8080
+Sep 26, 2026 7:18:23 AM sun.net.httpserver.ExchangeImpl sendResponseHeaders
+WARNING: sendResponseHeaders: being invoked with a content length for a HEAD request
